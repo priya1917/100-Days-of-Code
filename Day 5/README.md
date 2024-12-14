@@ -1,4 +1,5 @@
-##Password Generator 🔒
+#Password Generator 🔒
+
 Welcome to the Password Generator, a simple yet powerful tool to create secure, random passwords. This project is part of my Day 5 contribution to the #100DaysOfCode Challenge. It demonstrates the importance of cybersecurity and the practical application of programming in solving real-world problems.
 
 ##About the Project
