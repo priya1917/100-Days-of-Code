@@ -17,15 +17,6 @@ Win/Loss Detection:
 The game ends when the word is fully guessed or the player runs out of lives.
 Displays the correct word if the player loses.
 
-How to Play
-Clone the repository:
-git clone https://github.com/yourusername/Hangman-Game.git
-cd Hangman-Game
-Ensure the hangman_words.py and hangman_art.py files are in the same directory.
-
-Run the game:
-python hangman.py
-
 Follow the on-screen instructions:
 Guess letters one at a time.
 Avoid incorrect guesses to save lives.
