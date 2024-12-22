@@ -1,5 +1,5 @@
 Blackjack Game 🃏
-Welcome to Day 12 of my #100DaysOfCode Challenge! Today’s project is a Blackjack Game implemented in Python. This program simulates the classic card game, allowing users to play against the computer while practicing decision-making and strategy.
+Welcome to Day 11 of my #100DaysOfCode Challenge! Today’s project is a Blackjack Game implemented in Python. This program simulates the classic card game, allowing users to play against the computer while practicing decision-making and strategy.
 
 About the Project
 The Blackjack Game is a simplified version of the casino classic. The goal is to beat the computer by having a hand value closer to 21 without going over. The program features dynamic gameplay with randomized cards, decision-making options, and scoring logic.
